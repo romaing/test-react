@@ -106,4 +106,5 @@ function TaskItem({ task, onUpdate, onDelete }) {
   );
 }
 
+
 export default TaskItem;
