@@ -4,21 +4,21 @@
     "title": "Projet Fullstack",
     "tasks": [
       {
-        "id": 101,
-        "title": "Développer l'API",
-        "user": "Dev Fullstack",
-        "value": "Back-end",
-        "status": "done",
-        "estimate": 3,
-        "editing": false
-      },
-      {
         "id": 102,
         "title": "Développer le front",
         "user": "Dev Fullstack",
         "value": "Front-end",
         "status": "in-progress",
         "estimate": 5,
+        "editing": false
+      },
+      {
+        "id": 101,
+        "title": "Développer l'API",
+        "user": "Dev Fullstack",
+        "value": "Back-end",
+        "status": "done",
+        "estimate": 3,
         "editing": false
       },
       {
