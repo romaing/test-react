@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Projet Fullstack",
+    "tasks": [
+      {
+        "id": 101,
+        "title": "Développer l'API",
+        "user": "Dev Fullstack",
+        "value": "Back-end",
+        "status": "done",
+        "estimate": 3,
+        "editing": false
+      },
+      {
+        "id": 102,
+        "title": "Développer le front",
+        "user": "Dev Fullstack",
+        "value": "Front-end",
+        "status": "in-progress",
+        "estimate": 5,
+        "editing": false
+      },
+      {
+        "id": 1766104792468,
+        "title": "test rom",
+        "user": "",
+        "value": "",
+        "status": "backlog",
+        "estimate": 1,
+        "editing": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Projet Web",
+    "tasks": [
+      {
+        "id": 201,
+        "title": "Créer la maquette",
+        "user": "Dev Web",
+        "value": "Design",
+        "status": "ready",
+        "estimate": 2,
+        "editing": false
+      },
+      {
+        "id": 202,
+        "title": "Intégrer le site",
+        "user": "Dev Web",
+        "value": "Front-end",
+        "status": "backlog",
+        "estimate": 3,
+        "editing": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Projet Chef de projet",
+    "tasks": [
+      {
+        "id": 301,
+        "title": "Planifier les sprints",
+        "user": "Chef de projet",
+        "value": "Planning",
+        "status": "ready",
+        "estimate": 1,
+        "editing": false
+      }
+    ]
+  }
+]
