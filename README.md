@@ -2,6 +2,9 @@
 npm run dev
 http://localhost:5173/
 
+node server.js
+http://localhost:3001
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
